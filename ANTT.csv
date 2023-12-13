@@ -1,0 +1,696 @@
+,Make,Model,Year of manufacture,Kilometer,Previous owners,Body style,Horsepower,Cubic capacity (ccm),Cylinders,Doors,Steering,Gearbox,Gears,Transmission,Front breaks,Rear breaks,Fuel type,Price (£)
+24,Audi,TT 1.8 T quattro,2000,99800,3,Coupe,251,1781,4,2,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,14785
+69,Alfa Romeo,2000 Spider Veloce,1979,82000,6,Convertible,127,1962,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,21321
+78,Volvo,780 Bertone 2.8 V6,1990,201000,3,Coupe,147,2849,6,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,23061
+79,Ferrari,308 GTSi (US),1981,60000,3,Convertible (Targa),205,2906,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,126183
+96,Mercedes-Benz,250 SE,1966,161000,5,Coupe,150,2496,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,46122
+166,Jaguar,XKR,2003,110600,2,Coupe,396,4196,8,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,21705
+168,Aston Martin,V12 Vantage AMR,2018,1247,2,Coupe,603,5935,12,2,Right (RHD),Manual,7,Rear,Disc,Disc,Petrol,174002
+179,FIAT,500 L,1971,5000,2,Saloon (2-doors),18,499,2,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,10443
+201,Triumph,TR 6,1971,41882,4,Convertible (Roadster),98,2498,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,21669
+204,Jaguar,XK 150 3.4 S DHC,1959,43000,2,Convertible,200,4200,6,2,Right (RHD),Manual,5,Rear,Disc,Disc,Petrol,104341
+214,Bentley,Arnage R,2005,119019,3,Saloon (4-doors),456,6750,8,4,Right (RHD),Automatic,4,Rear,Disc,Disc,Petrol,34895
+249,Porsche,911 GT2,2008,62850,1,Coupe,530,3600,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,145328
+254,Alfa Romeo,4C,2016,14000,1,Coupe,241,1742,4,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,83542
+256,Porsche,911 Carrera,2013,124500,2,Coupe,350,3436,6,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,60829
+453,Jaguar,XK 140 FHC,1956,22767,2,Coupe,193,3417,6,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,73012
+513,Ferrari,550 Maranello,1997,48556,2,Coupe,485,5473,12,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,126140
+518,Ford,F-1,1947,96178,1,Pick-up,91,3700,6,2,Left (LHD),Manual,3,Rear,Drum,Drum,Petrol,28282
+522,BMW,635 CSi,1980,189078,2,Coupe,218,3430,6,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,28282
+544,Porsche,911 Turbo 3.3,1982,144472,2,Coupe,300,3299,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,119657
+578,Porsche,911 Carrera 4S,2006,73600,1,Coupe,355,3824,6,2,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,63527
+579,Mercedes-AMG,GT Black Series,2021,1275,1,Coupe,730,3982,8,2,Left (LHD),Semi-Automatic,7,Rear,Disc,Disc,Petrol,408138
+583,Maybach,57 S,2008,30900,2,Saloon (4-doors),612,5980,12,4,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,172306
+643,Porsche,356 C 1600,1964,8000,1,Coupe,75,1582,4,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,90504
+661,BMW,M3,2002,129188,2,Coupe,343,3246,6,2,Left (LHD),Semi-Automatic,6,Rear,Disc,Disc,Petrol,43507
+690,Renault,Mégane R26.R,2007,18000,1,Racing car,230,1998,4,2,Left (LHD),Manual,6,Front,Disc,Disc,Petrol,25672
+691,Renault,Mégane R26.R,2009,19000,1,Racing car,230,1998,4,2,Left (LHD),Manual,6,Front,Disc,Disc,Petrol,47863
+693,Mercedes-Benz,S 500 BlueEFFICIENCY,2011,49949,1,Saloon (4-doors),435,4663,8,4,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,51048
+697,Ferrari,812 Superfast Competizione,2022,3300,1,Coupe,830,6496,12,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,435028
+699,Mercedes-Benz,G 55 AMG (LWB),2002,83300,2,4x4,354,5439,8,5,Left (LHD),Automatic,5,4WD,Disc,Disc,Petrol,57000
+711,Porsche,911 Carrera,2014,72099,1,Convertible,350,3436,6,2,Right (RHD),Automatic,7,Rear,Disc,Disc,Petrol,54995
+727,Innocenti,Spider S,1963,77473,6,Convertible,69,1150,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,23061
+729,Ferrari,Testarossa,1990,18749,1,Coupe,390,4943,12,2,Right (RHD),Manual,5,Rear,Disc,Disc,Petrol,139995
+770,Mercedes-Benz,CL 65 AMG,2005,49600,1,Coupe,612,5980,12,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,85857
+824,Volvo,Amazon P220,1967,322000,4,Estate,101,1778,4,5,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,12183
+825,Mercedes-Benz,380 SE,1985,192000,2,Saloon (4-doors),204,3839,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,16099
+870,BMW,M3,2004,102369,1,Coupe,343,3246,6,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,36985
+883,BMW,M3,2002,132000,2,Convertible,343,3246,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,37855
+949,Maserati,Mistral 4000,1968,73578,3,Coupe,255,4014,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,117481
+950,Mercedes-Benz,220 S Cabriolet,1957,15,3,Convertible,106,2,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,83542
+951,Austin-Healey,Sprite Mk I,1960,71788,2,Convertible (Roadster),60,948,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,21321
+961,Maserati,Quattroporte Sport GT S 4.7,2011,82763,1,Saloon (4-doors),440,4691,8,4,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,65093
+962,Aston Martin,Rapide S,2017,27751,1,Saloon (4-doors),560,5935,12,4,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,112956
+963,Aston Martin,V12 Vanquish S,2006,80052,4,Coupe,528,5935,12,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,126009
+967,Audi,RS Q8,2022,17500,1,4x4,600,3996,8,5,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,121789
+981,Maserati,Mistral 3700,1965,98308,4,Coupe,245,3692,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,171870
+983,Porsche,911 Carrera,2009,12800,2,Coupe,345,3614,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,65267
+986,Lancia,Thema 8.32,1990,218500,2,Saloon (4-doors),205,2972,8,4,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,17200
+1002,Ferrari,599 GTB Fiorano,2008,38000,2,Coupe,620,5999,12,2,Left (LHD),Semi-Automatic,6,Rear,Disc,Disc,Petrol,143588
+1060,Porsche,911 GT2 RS,2018,10700,2,Coupe,700,3800,6,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,339390
+1064,Porsche,911 Carrera 4,1990,81300,1,Coupe,250,3,6,2,Left (LHD),Manual,5,4WD,Disc,Disc,Petrol,68748
+1171,Ferrari,330 GT 2+2,1965,72597,6,Coupe,300,3967,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,256718
+1183,BMW,M5,1999,73971,2,Saloon (4-doors),400,4941,8,4,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,52127
+1191,Volkswagen,Golf III GTI 2.0,1994,143852,3,Saloon,115,1984,4,5,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,7397
+1192,Porsche,924,1984,77458,3,Coupe,125,1984,4,2,Left (LHD),Manual,5,Rear,Disc,Drum,Petrol,10269
+1198,FIAT,125 S / Speciale,1972,82862,3,Saloon (4-doors),100,1608,4,4,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,10878
+1236,Porsche,928,1978,124000,2,Coupe,240,4474,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,17318
+1320,Jaguar,XKR,2000,59990,3,Coupe,363,3996,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,26977
+1339,Alfa Romeo,2000 Spider Veloce,1974,38082,1,Convertible,132,1962,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,23931
+1662,Citroën,2 CV 6 Club,1990,4820,1,Saloon (4-doors),29,597,2,4,Left (LHD),Manual,4,Front,Drum,Drum,Petrol,18275
+1667,BMW,M 635 CSi,1985,148600,2,Coupe,286,3430,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,56521
+1680,Jaguar,XK,2011,67400,1,Convertible,385,5000,8,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,43424
+1741,Mercedes-Benz,560 SL,1987,155064,3,Convertible (Roadster),230,5547,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,31328
+1748,Porsche,911 Carrera,2020,22800,3,Convertible,385,2981,6,2,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,115741
+1879,Bentley,Continental Flying Spur,2006,110000,2,Saloon (4-doors),560,5998,12,4,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,26020
+1880,Mercedes-Benz,500 E,1992,72000,2,Saloon (4-doors),326,4973,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,73099
+1883,Mercedes-Benz,"450 SEL 6,9",1976,101000,4,Saloon (4-doors),286,6834,8,4,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,87023
+1893,Austin,Mini Van,1980,80836,3,Saloon (2-doors),63,1,4,0,Left (LHD),Manual,4,Front,Disc,Disc,Petrol,16447
+1906,Mercedes-Benz,250 S,1967,48443,6,Saloon (4-doors),130,2496,6,4,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,16447
+1907,Mercedes-Benz,220 SE b,1962,158170,6,Saloon (4-doors),120,2195,6,4,Left (LHD),Automatic,4,Rear,Disc,Drum,Petrol,18188
+1908,Mercedes-Benz,220 SE b,1964,25128,6,Saloon (4-doors),120,2195,6,4,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,17318
+1909,Mercedes-Benz,220 S Cabriolet,1958,139537,6,Convertible,106,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,104341
+1935,Jaguar,XKR,1999,33268,6,Convertible,363,3996,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,21669
+1939,Mercedes-Benz,"280 SE 3,5",1971,46487,2,Coupe,232,3499,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,64832
+1941,Jaguar,XJ 2.7 D,2008,118161,6,Saloon (4-doors),207,2720,6,4,Left (LHD),Automatic,6,Rear,Disc,Disc,Diesel,26020
+1943,Alfa Romeo,2000 Spider Veloce,1982,76500,3,Convertible,132,1962,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,26020
+1949,Mercedes-Benz,S 600 L,2000,208300,1,Saloon (4-doors),367,5786,12,4,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,6953
+1962,Mercedes-Benz,450 SLC,1976,123500,1,Coupe,217,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,27200
+1964,Mercedes-Benz,180 b,1960,156000,3,Saloon (4-doors),68,1897,4,4,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,21797
+1965,Mercedes-Benz,220 S,1958,223000,3,Coupe,106,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,70978
+2055,Porsche,Macan Turbo,2014,34500,2,4x4,400,3604,6,5,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,52127
+2061,Mercedes-Benz,R 63 AMG,2007,163000,2,Van (Estate),510,6208,8,5,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,29579
+2062,Mercedes-Benz,300 SEL 6.3,1969,78214,2,Saloon (4-doors),250,6332,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,78234
+2174,Jaguar,XJR 4.0,1999,200000,2,Saloon (4-doors),363,3996,8,4,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,18275
+2212,Triumph,TR 6 PI,1974,119656,6,Convertible (Roadster),106,2498,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,15534
+2214,Ferrari,Testarossa,1991,43133,6,Coupe,390,4942,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,155336
+2225,FIAT,500 L,1971,22780,3,Saloon (2-doors),18,499,2,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,13837
+2227,Autokraft,Cobra Mk IV,1991,7400,2,Coupe,228,4942,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,155771
+2228,Mercedes-Benz,220 S,1959,73971,6,Saloon (4-doors),106,2195,6,4,Right (RHD),Manual,4,Rear,Drum,Drum,Petrol,18971
+2229,BMW,Z8,2000,41000,2,Convertible (Roadster),400,4941,8,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,207985
+2259,Alfa Romeo,2000 Spider Veloce,1976,8655,2,Convertible,132,1962,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,21756
+2265,Ferrari,430 Scuderia,2008,35736,3,Coupe,510,4308,8,2,Left (LHD),Semi-Automatic,6,Rear,Disc,Disc,Petrol,260199
+2267,BMW,Z4 3.0si,2007,73000,2,Convertible (Roadster),265,2996,6,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,23409
+2269,Ferrari,348 TS,1991,25081,1,Coupe (Targa),300,3405,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,78321
+2273,FIAT,Barchetta,1995,22658,1,Convertible (Roadster),131,1747,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,15621
+2285,Ferrari,328 GTB,1987,28968,2,Coupe,270,3185,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,92244
+2296,BMW,635 CSi Group A,1984,3000,3,Coupe (Racing car),325,3475,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,91374
+2297,Ford,GT,2019,2000,1,Coupe,550,5,8,2,Right (RHD),Manual,7,Rear,Disc,Disc,Petrol,112260
+2371,Devin,D Spyder,1964,48321,6,Convertible (Roadster),1,1,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,69183
+2384,Jaguar,XJ 5.0,2010,129465,2,Saloon (4-doors),385,5000,8,4,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,28282
+2391,Jaguar,XJ 8 4.2,2004,63318,1,Saloon (4-doors),298,4196,8,4,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,21712
+2478,Mercedes-Benz,220 S Cabriolet,1957,73971,2,Convertible,106,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,75710
+2501,Porsche,356 C 1600,1964,125000,4,Coupe,75,1720,4,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,130535
+2534,Mercedes-Benz,450 SL,1973,160500,2,Convertible (Roadster),225,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,33060
+2538,Aston Martin,DBS,2008,13000,1,Coupe,517,5935,12,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,178388
+2652,Land Rover,Defender 90,1997,73971,1,4x4,113,2495,4,3,Left (LHD),Manual,5,4WD,Disc,Disc,Diesel,44365
+2662,Aston Martin,V12 Vantage,2011,44790,2,Coupe,517,5935,12,2,Right (RHD),Manual,6,Rear,Disc,Disc,Petrol,76950
+2665,Ferrari,F430,2005,69300,4,Coupe,490,4308,8,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,82585
+2671,Audi,RS3 Sportback,2022,15500,1,Saloon (5-doors),400,2480,5,5,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,60829
+2674,Ferrari,208 GTB,1980,86350,2,Coupe,155,1991,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,73883
+2678,Porsche,Panamera Turbo,2017,57950,2,Saloon (5-doors),550,3996,8,5,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,83455
+2705,Mercedes-Benz,220 S,1958,84766,6,Saloon (4-doors),106,2195,6,4,Left (LHD),Automatic,4,Rear,Drum,Drum,Petrol,24323
+2706,Mercedes-Benz,SL 500,2002,126485,6,Convertible (Roadster),306,4966,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,21321
+2707,Ferrari,308 GTBi Quattrovalvole,1984,126994,2,Coupe,240,2927,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,73926
+2708,Triumph,TR 3A,1958,147080,6,Convertible (Roadster),100,1991,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,24323
+2757,Cadillac,SRX 4.6,2005,128938,6,4x4,325,4565,8,5,Left (LHD),Automatic,5,4WD,Disc,Disc,Petrol,12966
+2763,Mazda,MX-5 1.8,1999,196051,6,Convertible (Roadster),140,1839,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,7745
+2765,Jaguar,Mk II 3.8,1961,129636,4,Saloon (4-doors),224,3800,6,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,30371
+2778,Austin-Healey,Sprite Mk I,1959,73971,2,Convertible (Roadster),44,948,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,22404
+2787,Aston Martin,DB 9 GT Volante,2017,4575,1,Convertible,547,5935,12,2,Right (RHD),Automatic,6,Rear,Disc,Disc,Petrol,185000
+2834,FIAT,850 Super,1965,73971,2,Saloon (2-doors),37,843,4,2,Right (RHD),Manual,4,Rear,Drum,Drum,Petrol,8702
+2876,Ferrari,348 TS,1993,69000,2,Coupe (Targa),300,3405,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,60742
+2891,Mercedes-Benz,560 SEC,1991,166900,2,Coupe,279,5547,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,39117
+2900,Mercedes-Benz,SL 55 AMG,2003,158455,6,Convertible (Roadster),500,5439,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,32634
+2902,Jaguar,XJ12 6.0,1996,166000,1,Saloon (4-doors),311,5994,12,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,17404
+2914,Porsche,911 GT3 RS,2004,53694,1,Coupe,381,3598,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,178310
+2950,Volkswagen,T1 pickup,1971,76037,1,Bus (Plank bed),44,1493,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,36550
+2952,Mercedes-Benz,SL 500,2005,73000,2,Convertible (Roadster),306,4966,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,19580
+2953,Mercedes-Benz,450 SLC,1978,72984,2,Coupe,225,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,36811
+2958,BMW,M5,2001,101195,6,Saloon (4-doors),400,4941,8,4,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,63092
+2960,Porsche,911 2.4 T,1971,20734,3,Coupe,140,2341,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,95290
+2961,Aston Martin,DB 7 GTA,2003,3832,6,Coupe,420,5935,12,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,82628
+2962,Porsche,911 2.7 S,1977,125962,6,Convertible (Targa),175,2687,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,71794
+2992,Jaguar,E-Type,1968,168000,3,Convertible (Roadster),269,4235,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,78234
+3005,Mercedes-Benz,500 SEC,1984,68000,1,Coupe,231,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,33939
+3014,Jaguar,XJ 8 4.2,2004,175969,1,Saloon (4-doors),298,4196,8,4,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,14750
+3017,Mercedes-Benz,190 SL,1961,408,1,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,131405
+3073,Mazda,MX-5 1.6,1991,270278,5,Convertible (Roadster),115,1598,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,6005
+3083,Alfa Romeo,Montreal,1974,8417,6,Coupe,195,2593,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,76145
+3084,Mercedes-Benz,220 SE,1959,118131,1,Saloon (4-doors),115,2195,6,4,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,47428
+3085,MG,MGB,1977,19333,6,Convertible (Roadster),63,1798,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,16491
+3086,Porsche,911 Carrera 3.0,1977,144000,6,Coupe,200,2994,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,89199
+3091,Rolls-Royce,Ghost,2021,59,1,Saloon (4-doors),571,6592,12,4,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,329817
+3109,FIAT,Barchetta,1995,2200,1,Convertible (Roadster),131,1747,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,26542
+3127,Porsche,911 Carrera S,2006,99800,3,Convertible,355,3824,6,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,60742
+3147,Porsche,911 Carrera S,2006,33616,1,Coupe,355,3824,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,66573
+3148,Porsche,911 Carrera 4,1989,68501,1,Coupe,250,3600,6,2,Left (LHD),Manual,5,4WD,Disc,Disc,Petrol,94855
+3150,Rolls-Royce,Dawn Black Badge,2021,6886,1,Convertible,601,6592,12,2,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,513436
+3152,Rolls-Royce,Dawn Black Badge,2020,6336,1,Convertible,601,6592,12,2,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,348092
+3153,Rolls-Royce,Cullinan,2022,88,1,4x4,571,6592,12,5,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,378550
+3155,Rolls-Royce,Cullinan,2019,29503,1,4x4,571,6592,12,5,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,312413
+3179,Porsche,911 Carrera 4S,2018,23750,2,Coupe,450,2981,6,2,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,95638
+3194,Porsche,911 Turbo 3.3,1986,85000,2,Coupe,300,3299,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,117481
+3222,Jaguar,XJS 4.0 Celebration,1996,225308,2,Convertible,240,3980,6,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,39160
+3232,Lancia,2000 Iniezione,1973,79000,2,Saloon (4-doors),125,1991,4,4,Left (LHD),Manual,5,Front,Disc,Drum,Petrol,11052
+3234,FIAT,500 C Belvedere,1951,10000,3,Estate,16,569,4,3,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,19580
+3244,Alfa Romeo,Giulia GTAm,2021,3000,1,Saloon (4-doors),540,2891,6,4,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,221909
+3302,Jaguar,XK 150 3.4 S OTS,1960,24313,3,Convertible (Roadster),254,3442,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,121397
+3385,Jaguar,XJS 6.0,1995,98000,1,Convertible,302,5993,12,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,25237
+3387,Lancia,Augusta,1935,1000,1,Saloon (2-doors),35,1196,4,2,Right (RHD),Manual,4,Rear,Drum,Drum,Petrol,25237
+3394,Audi,S6 Avant 5.2 V10 Quattro,2006,156000,1,Estate,435,5204,10,5,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,22626
+3398,Autobianchi,Bianchina Panoramica,1967,67000,1,Small car (Estate),18,499,2,3,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,6962
+3406,Saab,900 Turbo 16,1987,165000,1,Coupe,160,1985,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,12183
+3407,Subaru,Impreza WRX STi,2012,180000,1,Saloon (4-doors),300,2500,4,4,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,28631
+3411,Porsche,Panamera 4S,2011,185000,2,Saloon (5-doors),400,4806,8,5,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,30371
+3417,Jaguar,XK 140 FHC,1956,72000,3,Coupe,193,3442,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,78321
+3435,Mercedes-Benz,SL 350,2007,75639,2,Convertible (Roadster),272,3498,6,2,Right (RHD),Automatic,7,Rear,Disc,Disc,Petrol,11950
+3457,Mercedes-Benz,170 S Cabriolet A,1950,5209,1,Convertible,52,1767,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,108561
+3458,Mercedes-Benz,CL 63 AMG,2008,119119,2,Coupe,525,6209,8,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,23931
+3501,Triumph,TR 3A,1960,241,3,Convertible (Roadster),100,1991,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,38943
+3502,Ferrari,Mondial T,1993,43800,1,Convertible,300,3405,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,62570
+3522,Land Rover,Defender 110,2004,184999,1,4x4 (Open),122,2495,4,5,Left (LHD),Manual,5,4WD,Disc,Drum,Diesel,30100
+3530,Land Rover,Defender 110,1991,1,1,4x4,113,2495,4,5,Left (LHD),Automatic,5,4WD,Disc,Drum,Diesel,40466
+3537,Mercedes-Benz,450 SLC,1976,142000,3,Coupe,217,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,32590
+3572,Rover,"Mini ""Knightsbridge""",2001,73971,2,Saloon (2-doors),63,1275,4,2,Right (RHD),Manual,4,Front,Disc,Disc,Petrol,25933
+3604,Mercedes-Benz,190 SL,1960,12545,3,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,101817
+3607,Mercedes-Benz,380 SL,1983,225249,6,Convertible (Roadster),218,3818,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,25672
+3661,BMW,Z8,2001,40571,1,Convertible (Roadster),400,4941,8,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,217122
+3664,BMW,Z4 Coupé 3.0si,2006,70853,1,Coupe,265,2996,6,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,26063
+3665,BMW,M 635 CSi,1984,104742,2,Coupe,286,3430,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,66094
+3676,Mercedes-Benz,220 S,1958,2743,2,Saloon (4-doors),106,2195,6,4,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,60481
+3694,Mercedes-Benz,SLK 32 AMG,2002,78420,2,Convertible (Roadster),354,3199,6,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,25063
+3745,Porsche,911 Speedster 3.2,1989,50066,3,Convertible (Roadster),217,3164,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,206680
+3749,Porsche,911 Carrera 3.2,1988,73971,1,Coupe,217,3164,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,87023
+3760,FIAT,500 C Topolino,1952,2,6,Convertible (Saloon),16,569,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,13489
+3780,Mercedes-Benz,E 500,1995,61927,2,Saloon (4-doors),320,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,95725
+3782,Renault,Twingo,1995,73971,1,Small car (Small Car),55,1239,4,3,Left (LHD),Manual,5,Front,Disc,Drum,Petrol,6266
+3788,Austin-Healey,Sprite Mk I,1958,1176,4,Convertible (Roadster),100,1330,4,2,Right (RHD),Manual,4,Rear,Disc,Drum,Petrol,49500
+3817,Subaru,WRX STi,2018,1142,1,Saloon (4-doors),305,2498,4,4,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,95725
+3824,Jaguar,XK8 4.0,2000,81400,3,Convertible,284,3996,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,24192
+3850,Mercedes-Benz,220 S,1957,20200,4,Saloon (4-doors),106,2195,6,4,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,39944
+3858,Mercedes-Benz,SL 63 AMG,2008,72250,3,Convertible (Roadster),525,6208,8,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,57348
+3860,Maserati,3200 GT,2001,40616,3,Coupe,370,3217,8,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,34808
+3864,Porsche,911 SC 3.0,1982,266624,6,Coupe,204,2994,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,43424
+3865,BMW,M5,2000,163560,2,Saloon (4-doors),400,4941,8,4,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,33608
+3869,Audi,R8 V10 Spyder,2011,17800,2,Convertible (Roadster),525,5204,10,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,78147
+3884,Maserati,Ghibli S Q4,2014,189800,1,Saloon (4-doors),410,2979,6,4,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,26107
+3886,Land Rover,Defender 90,2011,65017,2,4x4,122,2198,4,3,Right (RHD),Manual,6,4WD,Disc,Disc,Diesel,29995
+3914,Ferrari,Testarossa,1984,41473,3,Coupe,390,4943,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,195802
+3918,Mercedes-Benz,190 SL,1960,88125,4,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,143588
+3926,Jaguar,XKR,1998,71318,2,Coupe,363,3996,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,27847
+4046,FIAT,500 L,1970,80000,2,Saloon (2-doors),18,499,2,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,13271
+4054,Mercedes-Benz,300 SEL 6.3,1971,50298,1,Saloon (4-doors),250,6332,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,35244
+4058,Audi,R8,2007,84213,3,Coupe,420,4163,8,2,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,60481
+4084,Ford,Sierra RS Cosworth,1987,76000,1,Saloon (3-doors),204,1993,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,50038
+4102,Mercedes-Benz,500 SL,1984,181194,4,Convertible (Roadster),231,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,37855
+4137,Jaguar,F-Pace 30d,2018,93386,2,4x4,300,2993,6,5,Left (LHD),Automatic,8,4WD,Disc,Disc,Diesel,29297
+4143,Land Rover,110,1984,114000,1,4x4,115,3532,8,5,Left (LHD),Manual,5,4WD,Disc,Drum,Petrol,30458
+4147,Porsche,Macan GTS,2022,14896,1,4x4,440,2894,6,5,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,91277
+4188,Donkervoort,D8 360 RS,2002,41000,2,Convertible (Roadster),260,1781,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,51344
+4200,Mercedes-Benz,SL 350,2008,67481,3,Convertible (Roadster),316,3498,6,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,34808
+4206,Ferrari,348 TB Elaborazione Zagato,1990,17081,2,Coupe,300,3405,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,304580
+4207,Ferrari,California T,2015,33989,3,Convertible,560,3855,8,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,134885
+4216,Ferrari,FF,2013,14964,1,Coupe (Hatchback),660,6262,12,2,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,435114
+4218,Lamborghini,Gallardo,2004,24168,3,Coupe,500,4961,10,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,91373
+4229,Alfa Romeo,GTV 3.0 Racing,2000,30000,1,Coupe (Racing car),220,2959,6,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,39160
+4280,Mercedes-Benz,190,1958,73971,1,Saloon (4-doors),75,1897,4,4,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,8615
+4311,Land Rover,Defender 110,2014,73971,1,4x4,122,2198,4,5,Left (LHD),Manual,6,4WD,Disc,Disc,Diesel,100076
+4315,BMW,Z8,2001,26000,6,Convertible (Roadster),400,4941,8,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,189275
+4317,Mini,Moke,1987,73971,3,Convertible (Tourer),40,998,4,0,Left (LHD),Manual,4,Front,Disc,Drum,Petrol,17405
+4361,Ferrari,550 Maranello,1997,46115,6,Coupe,485,5474,12,0,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,130099
+4367,Morgan,Roadster V6,2018,3178,1,Convertible (Roadster),284,3721,6,2,Right (RHD),Manual,6,Rear,Disc,Disc,Petrol,56995
+4379,Lotus,Exige,2004,25642,3,Coupe,192,1796,4,2,Right (RHD),Manual,5,Rear,Disc,Disc,Petrol,28500
+4440,Austin-Healey,3000 Mk I (BT7),1960,697,2,Convertible (Roadster),124,2912,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,57870
+4450,Aston Martin,DB 9 GT Volante,2017,16934,1,Convertible,547,5935,12,2,Right (RHD),Automatic,6,Rear,Disc,Disc,Petrol,92950
+4511,Land Rover,110,1986,18500,1,4x4,133,3532,8,5,Left (LHD),Manual,5,4WD,Disc,Drum,Petrol,34722
+4523,Mercedes-Benz,450 SL,1972,143000,3,Convertible (Roadster),225,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,24366
+4525,Aston Martin,"Vantage V8 ""007 Edition""",2021,690,1,Coupe,510,3982,8,2,Left (LHD),Manual,8,Rear,Disc,Disc,Petrol,216687
+4534,Land Rover,Defender 110 Heritage,2015,75000,2,4x4,122,2198,4,5,Left (LHD),Manual,6,4WD,Disc,Disc,Diesel,65267
+4536,Lancia,2000,1973,36259,4,Saloon (4-doors),115,1991,4,4,Left (LHD),Manual,5,Front,Disc,Drum,Petrol,17405
+4561,Rolls-Royce,Corniche II,1988,69656,2,Convertible,200,6750,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,87023
+4611,Bentley,Continental GT,2019,48452,3,Coupe,635,5950,12,3,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,173872
+4644,Mercedes-Benz,SL 500,2004,68719,6,Convertible (Roadster),306,4966,8,2,Right (RHD),Semi-Automatic,5,Rear,Disc,Disc,Petrol,12250
+4693,Mercedes-Benz,"280 SE 3,5",1971,13000,3,Coupe,200,3499,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,98162
+4695,Alfa Romeo,4C,2015,2285,1,Coupe,241,1742,4,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,66050
+4700,Mercedes-Benz,500 SL,1984,246400,2,Convertible (Roadster),231,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,26020
+4703,Mercedes-Benz,220 SE b,1965,127219,3,Saloon (4-doors),120,2195,6,4,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,12966
+4742,Lamborghini,Huracán Spyder,2016,35951,6,Convertible (Roadster),610,5204,10,2,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,217514
+4766,Mercedes-Benz,560 SEC,1991,43400,2,Coupe,279,5547,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,60028
+4773,Abarth,695 Yamaha Limited Edition,2018,82000,2,Small car (Small Car),165,1368,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,14785
+4799,Goliath,GP 900 V,1956,64850,3,Saloon (2-doors),38,880,2,2,Left (LHD),Manual,4,Front,Drum,Drum,Petrol,7397
+4800,BMW,M3,1991,188000,3,Saloon (2-doors),238,2498,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,121745
+4844,Porsche,911 Targa 4S (WLS),2006,105000,1,Coupe (Targa),381,3824,6,2,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,67875
+4846,Porsche,911 Turbo 3.6,1993,73971,2,Coupe,360,3600,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,304549
+4852,Ferrari,F430,2007,76000,2,Coupe,490,4308,8,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,101321
+4853,Maserati,Ghibli Cup,1997,51000,1,Coupe,330,1996,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,86153
+4988,Triumph,TR 6,1976,89562,4,Convertible (Roadster),106,2498,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,20450
+4992,Mercedes-Benz,250 SE,1967,2800,1,Coupe,150,2496,6,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,95725
+5011,Mercedes-Benz,220 SE Cabriolet,1960,83767,5,Convertible,120,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,134799
+5066,Jaguar,Mk II 3.8,1964,120000,3,Saloon (4-doors),224,3781,6,4,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,23061
+5082,Land Rover,Defender 90,1992,88000,1,4x4,84,2495,4,3,Left (LHD),Manual,5,4WD,Disc,Drum,Petrol,8615
+5092,Jaguar,XKR,1998,135000,2,Coupe,363,3996,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,19928
+5093,Mercedes-Benz,220 SE b,1962,98000,3,Coupe,120,2195,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,13489
+5100,Mercedes-Benz,SLR McLaren,2009,43907,2,Convertible (Roadster),626,5439,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,287089
+5109,Suzuki,Alto,2012,54632,2,Small car (Small Car),68,996,3,5,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,5134
+5115,Audi,TT 1.8 T quattro,1999,216856,6,Coupe,224,1781,4,3,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,6875
+5117,Bentley,Mulsanne Speed,2016,59546,3,Saloon (4-doors),537,6752,8,4,Right (RHD),Automatic,8,Rear,Disc,Disc,Petrol,110000
+5121,MG,F 1.8i,2001,163170,6,Convertible,120,1796,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,6005
+5122,Mazda,MX-5 1.8,1999,119546,6,Convertible (Roadster),140,1839,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,8694
+5129,FIAT,Barchetta,2001,113124,6,Convertible (Roadster),131,1747,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,7745
+5136,Land Rover,Defender 90 TD4,2008,111606,2,4x4 (Open),122,2402,4,3,Left (LHD),Manual,5,4WD,Disc,Disc,Diesel,39073
+5141,Mercedes-Benz,CL 600,2001,126233,4,Coupe,367,5786,12,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,11226
+5155,FIAT,Barchetta,2003,80334,2,Convertible (Roadster),131,1747,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,10356
+5187,Mazda,MX-5 1.6,1990,282377,2,Convertible (Roadster),115,1598,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,7745
+5191,Saab,900 Turbo S,1987,99620,6,Convertible,160,1985,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,12096
+5202,Alfa Romeo,2000 Spider Veloce,1979,97122,5,Convertible,111,1962,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,18188
+5228,MG,TF 135,2003,104901,3,Convertible (Roadster),136,1796,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,9486
+5230,MG,TF 135,2002,120388,6,Convertible (Roadster),136,1796,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,6005
+5242,Mercedes-Benz,450 SL,1973,205243,6,Convertible (Roadster),225,4500,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,6875
+5247,Triumph,TR 3A,1958,43489,2,Convertible (Roadster),100,2000,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,30371
+5248,Mini,Cooper Countryman,2011,131527,3,4x4,122,1598,4,5,Left (LHD),Manual,6,Front,Disc,Disc,Petrol,11226
+5249,Suzuki,Alto,2014,70382,2,Small car (Small Car),68,996,3,5,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,5874
+5257,Innocenti,Mini Cooper 1300,1974,15191,6,Saloon (2-doors),71,1275,4,2,Left (LHD),Manual,4,Front,Disc,Drum,Petrol,15577
+5261,Porsche,924 S,1987,131756,6,Coupe,160,2479,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,12096
+5262,FIAT,500 L,1969,55303,1,Saloon (2-doors),18,499,2,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,6875
+5265,Mazda,MX-5 1.6,1990,12345,6,Convertible (Roadster),115,1598,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,4727
+5272,Mazda,MX-5 1.6,1999,185748,2,Convertible (Roadster),110,1597,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,5134
+5274,Saab,900 Turbo S,1990,248706,1,Convertible,160,1985,4,2,Left (LHD),Automatic,5,Front,Disc,Disc,Petrol,12096
+5275,TVR,"Chimaera 4,0",1993,78386,2,Convertible,209,3950,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,17318
+5276,Mini,Cooper Countryman,2011,126616,6,4x4,122,1598,4,5,Left (LHD),Manual,6,Front,Disc,Disc,Petrol,11226
+5279,Triumph,TR 3A,1959,38177,2,Convertible (Roadster),100,1991,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,24279
+5282,Mercury,Capri XR2,1993,153251,5,Convertible,102,1598,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,3394
+5283,Mercedes-Benz,450 SLC,1978,56250,2,Coupe,217,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,65250
+5285,Ford,Streetka,2003,229889,1,Small car (Convertible),95,1597,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,3394
+5286,Mercedes-Benz,AMG E 63 S 4MATIC+ T,2018,43400,2,Estate,612,3982,8,5,Left (LHD),Automatic,9,4WD,Disc,Disc,Petrol,65433
+5291,FIAT,Barchetta,2005,126928,6,Convertible (Roadster),131,1747,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,8615
+5293,MG,F 1.8i,2000,77384,6,Convertible,120,1796,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,6875
+5294,Mazda,MX-5 1.6,2000,215346,1,Convertible (Roadster),110,1597,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,6005
+5305,Triumph,TR 6,1973,7909,2,Convertible (Roadster),106,2498,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,12966
+5309,Mazda,MX-5 1.6,2003,113200,6,Convertible (Roadster),110,1598,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,9486
+5313,FIAT,Barchetta,1996,115894,3,Convertible (Roadster),131,1747,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,6005
+5320,Austin-Healey,Sprite Mk I,1958,2433,4,Convertible (Roadster),44,948,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,24279
+5321,MG,MGB GT,1975,19137,2,Coupe,96,1798,4,2,Left (LHD),Manual,5,Rear,Disc,Drum,Petrol,19928
+5324,MG,TF 135,2002,153013,5,Convertible (Roadster),136,1796,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,5134
+5325,Triumph,TR 6 PI,1973,12942,3,Convertible (Roadster),165,2498,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,17318
+5333,Innocenti,Mini Cooper 1300,1988,95810,6,Saloon (2-doors),71,1293,4,0,Left (LHD),Manual,4,Front,Disc,Drum,Petrol,12966
+5371,Ferrari,512 BB,1979,141900,5,Coupe,360,4943,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,190580
+5374,Mercedes-Benz,380 SE,1984,24000,3,Saloon (4-doors),204,3839,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,34722
+5384,Mercedes-Benz,500 SL,1986,86395,6,Convertible (Roadster),223,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,43076
+5386,Mercedes-Benz,450 SL,1973,119354,6,Convertible (Roadster),192,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,28718
+5388,Mercedes-Benz,450 SL,1973,105287,6,Convertible (Roadster),192,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,26063
+5389,Maserati,Mistral 4000,1966,43703,6,Coupe,255,4014,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,143544
+5404,Porsche,911 Speedster 3.2,1989,39000,2,Convertible (Roadster),231,3164,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,208855
+5406,Porsche,911 Speedster,1993,80000,4,Convertible (Roadster),250,3600,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,213206
+5407,Porsche,911 Carrera S,2005,78000,1,Coupe,355,3824,6,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,54824
+5408,Porsche,Macan S Diesel,2015,92000,2,4x4,258,2967,6,5,Left (LHD),Automatic,7,4WD,Disc,Disc,Diesel,40031
+5409,Porsche,911 Speedster 3.2,1989,63000,2,Convertible (Roadster),231,3164,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,204504
+5417,Porsche,Cayenne Diesel,2011,158000,2,4x4,245,2967,6,4,Left (LHD),Automatic,8,4WD,Disc,Disc,Diesel,23496
+5419,Porsche,911 Carrera,2019,75000,1,Coupe,385,2981,6,2,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,114000
+5440,Aston Martin,V12 Vantage S,2015,13200,1,Convertible (Roadster),573,5935,12,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,140977
+5465,Porsche,"911 2.4 T ""Oilflap""",1972,92000,4,Coupe,140,2341,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,85283
+5468,Land Rover,88,1964,74134,2,4x4 (Open),51,2286,4,3,Left (LHD),Manual,4,4WD,Drum,Drum,Diesel,24366
+5489,Porsche,Cayman GT4,2020,17350,1,Coupe,385,3800,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,93898
+5494,BMW,M 635 CSi,1986,160000,2,Coupe,286,3430,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,68661
+5521,Renault,Twingo,1993,85000,2,Small car (Small Car),55,1239,4,3,Left (LHD),Manual,5,Front,Disc,Drum,Petrol,4351
+5530,Ferrari,California,2011,9800,1,Convertible,460,4297,8,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,126183
+5531,Ferrari,458 Spider,2015,1000,1,Convertible,570,4497,8,2,Left (LHD),Semi-Automatic,7,Rear,Disc,Disc,Petrol,287176
+5532,Lamborghini,Gallardo LP 560-4,2009,10700,1,Coupe,560,5204,10,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,134886
+5533,Ferrari,GTC4Lusso,2021,5200,1,Coupe (Hatchback),690,6262,12,2,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,282825
+5534,Maserati,GranTurismo 4.2,2008,21700,1,Coupe,405,4198,8,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,59176
+5537,Triumph,TR 3A,1959,10205,3,Convertible (Roadster),100,1991,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,30458
+5581,Porsche,911 Carrera 4 GTS,2016,76600,3,Coupe,430,3800,6,2,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,104341
+5582,Ferrari,GTC4Lusso T,2019,16500,2,Coupe (Hatchback),610,3855,8,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,191364
+5616,FIAT,500 L,1969,45000,1,Saloon (2-doors),18,499,2,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,15664
+5649,Saab,900 Turbo S,1988,220576,6,Convertible,160,1985,4,2,Left (LHD),Automatic,5,Front,Disc,Disc,Petrol,12966
+5658,Alfa Romeo,2000 Spider Veloce,1974,42000,3,Convertible,132,1962,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,23322
+5661,Alfa Romeo,2000 Spider Veloce,1973,75220,3,Convertible,132,1962,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,22104
+5668,Renault,Twingo 1.2 16V,2002,49457,3,Small car (Small Car),75,1149,4,3,Left (LHD),Manual,5,Front,Disc,Drum,Petrol,3383
+5670,Porsche,911 Turbo S,2020,19500,2,Convertible,650,3745,6,2,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,207028
+5689,Mercedes-Benz,300 SL Roadster,1961,1172,3,Convertible (Roadster),215,2996,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,1575116
+5715,Lancia,"Delta HF Integrale Evoluzione I ""Martini 5""",1992,20100,1,Saloon (4-doors),210,1,4,4,Left (LHD),Manual,5,4WD,Disc,Disc,Petrol,166214
+5738,Lancia,Delta 1.6 LS,1999,317500,1,Saloon (5-doors),103,1581,4,5,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,1610
+5764,Mercedes-Benz,500 SL,1984,52733,4,Convertible (Roadster),231,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,47776
+5779,Ferrari,308 GTS,1980,120000,4,Convertible (Targa),255,2926,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,91374
+5830,Mercedes-Benz,500 SEL Guard,1991,58876,1,Saloon (4-doors),245,4973,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,39073
+5836,Mercedes-Benz,220 Cabriolet A,1952,141052,3,Convertible,80,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,120962
+5854,Mercedes-Benz,560 SL,1987,47000,2,Convertible (Roadster),230,5547,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,52127
+5874,Mercedes-AMG,GT-S,2015,44110,2,Coupe,510,3982,8,2,Left (LHD),Semi-Automatic,7,Rear,Disc,Disc,Petrol,117481
+5894,Triumph,TR 3,1957,8118,2,Convertible (Roadster),415,5700,8,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,85283
+5907,Volvo,780 Bertone 2.8 V6,1990,791797,2,Coupe,147,2849,6,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,8702
+5910,Land Rover,Defender,2016,11750,1,4x4,148,2198,4,4,Left (LHD),Manual,6,4WD,Disc,Disc,Diesel,85718
+5948,FIAT,500 L,1971,8300,3,Saloon (2-doors),18,499,2,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,10356
+5965,Alfa Romeo,159 2.2 JTS 16V,2006,122000,1,Saloon (4-doors),185,2198,4,4,Left (LHD),Manual,6,Front,Disc,Disc,Petrol,11313
+5981,Mercedes-Benz,450 SEL,1977,179000,2,Saloon (4-doors),217,4520,8,4,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,24279
+6002,Mercedes-Benz,E 50 AMG,1997,195000,1,Saloon (4-doors),347,4973,8,4,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,16969
+6014,Dodge,Challenger SRT Hellcat Redeye,2020,16500,2,Coupe,717,6166,8,2,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,96163
+6015,Volkswagen,T1 Samba,1966,180,1,Bus,44,1493,4,4,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,116611
+6020,Jaguar,Sovereign 3.6,1989,160000,4,Saloon (4-doors),202,3590,6,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,12956
+6023,Datsun,1600 SSS,1970,73971,1,Saloon (4-doors),109,1595,4,4,Right (RHD),Manual,4,Rear,Disc,Drum,Petrol,8702
+6025,Elva,Mk VII,1989,40234,2,Racing car (Open),220,3100,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,23496
+6028,Porsche,911 Carrera 4S,2021,9000,1,Coupe,450,2981,6,2,Left (LHD),Manual,8,4WD,Disc,Disc,Petrol,160993
+6029,BMW,Z8,2002,73971,1,Convertible (Roadster),400,4941,8,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,204504
+6039,Triumph,TR 6,1973,34794,5,Convertible (Roadster),106,2498,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,30415
+6040,TVR,"Chimaera 4,0",1996,74996,1,Convertible,240,3950,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,37376
+6042,Mercedes-Benz,450 SL,1974,148724,2,Convertible (Roadster),225,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,34766
+6049,Citroën,2 CV 6 Club,1991,44,6,Saloon (4-doors),29,597,2,4,Left (LHD),Manual,4,Front,Drum,Drum,Petrol,36985
+6054,Mercedes-Benz,190 SL,1959,6650,6,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,106603
+6062,Volvo,XC70 2.5T AWD,2004,147000,2,Estate,210,2521,5,5,Left (LHD),Automatic,5,4WD,Disc,Disc,Petrol,10399
+6101,Alpine,A 110 GT,2022,38,1,Coupe,300,1798,4,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,119657
+6110,Aston Martin,"Vantage V8 ""007 Edition""",2021,750,1,Coupe,510,3982,8,2,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,190580
+6120,Mercedes-Benz,SL 350,2010,145906,3,Convertible (Roadster),316,3498,6,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,29490
+6124,Ferrari,Testarossa,1991,56000,2,Coupe,390,4943,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,104419
+6126,McLaren,675LT,2016,63,6,Coupe,675,3799,8,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,274122
+6129,FIAT,500 C Giardiniera,1900,6011,6,Estate,16,569,4,0,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,8702
+6130,FIAT,500 B Furgonato,1954,99263,6,Estate (Panel Van),16,569,4,4,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,17318
+6135,BMW,327,1938,32448,1,Convertible,55,1971,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,143501
+6147,Bentley,Turbo R,1995,81381,6,Saloon (4-doors),360,6750,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,26020
+6151,BMW,1600 - 2,1970,84785,3,Convertible (2-doors),130,1991,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,24279
+6159,Mercedes-Benz,220 S Cabriolet,1956,64845,1,Convertible,100,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,82672
+6168,Citroën,HY,1965,54000,2,Bus,58,1,4,3,Left (LHD),Manual,3,Front,Drum,Drum,Petrol,40901
+6188,Subaru,Impreza WRX STi spec C TYPE RA-R,2006,146948,2,Saloon,229,2457,4,4,Left (LHD),Manual,5,4WD,Disc,Disc,Petrol,20450
+6198,Ferrari,456M GT,2002,60082,3,Coupe,442,5,12,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,73883
+6230,Mercedes-Benz,450 SL,1980,138029,2,Convertible (Roadster),217,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,19406
+6248,Porsche,911 Turbo 3.3,1978,2000,1,Coupe,410,3299,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,117481
+6253,Porsche,911 Carrera S,2007,79000,1,Coupe,355,3824,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,55695
+6259,Porsche,911 Turbo,2008,90000,1,Coupe,480,3600,6,2,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,100076
+6264,Chrysler,Sebring 2.7 V6,2002,118000,1,Convertible,203,2736,6,2,Left (LHD),Automatic,4,Front,Disc,Disc,Petrol,4177
+6276,Honda,S 2000,2005,59300,1,Convertible (Roadster),241,1997,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,43424
+6278,Aston Martin,V12 Vanquish S,2005,59905,2,Coupe,528,5935,12,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,143501
+6279,Bentley,Continental Flying Spur,2005,27500,1,Saloon (4-doors),560,5998,12,4,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,43424
+6281,Lamborghini,Gallardo LP 560-4,2008,50300,3,Coupe,560,5204,10,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,100860
+6283,Ferrari,488 GTB,2016,33300,2,Coupe,670,3902,8,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,178310
+6284,Mercedes-Benz,G 63 AMG (LWB),2016,64100,1,4x4,571,5461,8,4,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,78234
+6285,Porsche,911 Turbo 3.3,1988,132600,3,Coupe,300,3299,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,173959
+6286,Audi,TT 1.8 T quattro sport,2005,54700,4,Coupe,240,1781,4,2,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,39073
+6322,Mercedes-Benz,"280 SE 3,5",1970,56120,2,Coupe,200,3499,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,69183
+6356,Lamborghini,Diablo VT 6.0,2000,7497,3,Coupe,550,5992,12,2,Left (LHD),Manual,5,4WD,Disc,Disc,Petrol,465573
+6360,Porsche,911 GT2,2008,111145,2,Coupe,530,3600,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,169695
+6410,Bentley,Bentayga W12,2018,41843,2,4x4,608,5950,12,5,Right (RHD),Automatic,8,4WD,Disc,Disc,Petrol,100000
+6439,Morgan,Plus Six,2021,5734,1,Convertible (Roadster),340,2998,6,2,Right (RHD),Automatic,8,Rear,Disc,Disc,Petrol,62500
+6444,Morgan,Plus 4 2-Seater,1998,39641,3,Convertible (Roadster),135,1994,4,2,Right (RHD),Manual,5,Rear,Disc,Drum,Petrol,28000
+6457,Mercedes-Benz,220 SE b,1965,77454,6,Coupe,120,2195,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,51779
+6458,Land Rover,90,1987,5693,2,4x4 (Open),240,3900,8,3,Left (LHD),Manual,5,4WD,Disc,Drum,Petrol,126183
+6463,Jaguar,XJ-SC 5.3,1987,65620,3,Convertible (Targa),265,5343,12,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,25237
+6473,Ferrari,Testarossa,1987,129206,2,Coupe,390,4943,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,106603
+6475,Mercedes-Benz,190 SL,1959,98856,4,Convertible (Roadster),105,1886,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,121745
+6485,Mercedes-Benz,190 SL,1962,65000,3,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,112695
+6501,Mercedes-Benz,220 S Cabriolet,1957,50188,6,Convertible,100,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,113086
+6502,Jaguar,XJ 8 3.5,2007,142223,6,Saloon (4-doors),258,3555,8,4,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,26020
+6506,Porsche,911 2.2 T,1970,73971,2,Coupe,125,2195,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,60829
+6525,Alfa Romeo,Giulia 1600 Sprint GT Veloce,1967,72358,1,Coupe,122,1570,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,60699
+6526,ISO,Rivolta 300,1967,17935,6,Coupe,304,5763,8,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,130099
+6570,Mercedes-Benz,190 SL,1960,80545,3,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,116611
+6578,Mercedes-Benz,500 SL,1988,95040,6,Convertible (Roadster),245,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,46775
+6582,Ferrari,512 BB,1980,57367,6,Coupe,360,4942,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,260634
+6594,Mercedes-Benz,500 SLC,1980,151500,2,Coupe,240,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,52127
+6595,Riley,Nine Monaco,1931,6379,5,Saloon (4-doors),29,1087,4,1,Right (RHD),Manual,4,Rear,Drum,Drum,Petrol,40031
+6617,Mercedes-Benz,CL 63 AMG,2002,27379,1,Coupe,525,6208,8,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,119657
+6619,Jaguar,XJ-S H.E.,1982,144430,2,Coupe,299,5343,12,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,12140
+6620,Ferrari,California,2010,65190,3,Convertible,460,4297,8,2,Left (LHD),Semi-Automatic,7,Rear,Disc,Disc,Petrol,103992
+6624,Porsche,911 Carrera 3.0,1977,73971,1,Coupe,200,2994,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,69444
+6641,Mercedes-Benz,500 SL,1982,224500,3,Convertible (Roadster),231,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,43424
+6651,Morgan,Roadster V6,2010,65600,1,Convertible (Roadster),228,2967,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,63527
+6680,Mercedes-Benz,"G 65 AMG ""Final Edition""",2018,8500,1,4x4,630,5980,12,5,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,321985
+6693,Austin-Healey,100/4M (BN2),1955,117,6,Convertible,110,2660,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,102252
+6709,Aston Martin,DBS,2010,38750,2,Coupe,517,5935,12,2,Right (RHD),Automatic,6,Rear,Disc,Disc,Petrol,86950
+6726,Mercedes-Benz,380 SL,1985,130579,2,Convertible (Roadster),204,3839,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,41336
+6748,Bentley,Continental GTC,2007,6631,1,Convertible,560,5998,12,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,100076
+6752,Jaguar,Mk II 3.8,1960,69000,3,Saloon (4-doors),224,3781,6,4,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,59089
+6776,Ferrari,330 GT 2+2,1964,136500,6,Coupe,300,3967,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,278474
+6778,Mercedes-Benz,500 SL,1985,999999,6,Convertible (Roadster),245,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,38290
+6786,Porsche,911 R,1967,152102,2,Coupe,210,1991,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,91374
+6788,Porsche,928,1979,109088,2,Coupe,240,4474,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,34766
+6789,Jaguar,XJ 8 4.2,2004,195854,6,Saloon (4-doors),298,4196,8,4,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,13489
+6794,Mercedes-Benz,560 SL,1985,195575,2,Convertible (Roadster),230,5547,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,34374
+6802,Mercedes-Benz,190 SL,1961,81596,3,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,130447
+6811,Lancia,Aprilia,1938,6000,4,Saloon (4-doors),47,1352,4,4,Right (RHD),Manual,4,Rear,Drum,Drum,Petrol,33069
+6878,BMW,M 635 CSi,1984,187000,3,Coupe,286,3430,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,51344
+6888,Mercedes-Benz,500 SL,1985,120500,2,Convertible (Roadster),245,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,69531
+6893,Mercedes-Benz,190 SL,1958,73971,2,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,102644
+6938,Porsche,911 Carrera,2016,58000,1,Convertible,370,2981,6,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,95725
+6943,Porsche,911 Carrera S,2006,147000,2,Coupe,355,3824,6,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,47863
+6947,Porsche,911 Turbo,2007,52000,2,Convertible,480,3600,6,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,86153
+6949,Porsche,"Boxster S ""50 Jahre 550 Spyder""",2004,76000,3,Convertible (Roadster),265,3179,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,36115
+6955,Porsche,911 Targa 4S,2016,43000,1,Convertible (Targa),420,2981,6,2,Left (LHD),Manual,7,4WD,Disc,Disc,Petrol,129664
+6985,Alfa Romeo,8C Spider,2010,6751,1,Convertible (Roadster),450,4691,8,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,243229
+7001,Ferrari,365 GT4 2+2,1974,88007,6,Coupe,340,4390,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,86588
+7003,Alfa Romeo,Montreal,1973,78660,6,Coupe,195,2593,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,77886
+7006,Mercedes-Benz,420 SL,1985,117815,3,Convertible (Roadster),218,4196,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,46905
+7015,Aston Martin,V12 Vanquish S,2007,37026,4,Coupe,528,5935,12,2,Right (RHD),Automatic,6,Rear,Disc,Disc,Petrol,99950
+7019,Jaguar,XK,2011,59525,5,Coupe,385,4997,8,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,43337
+7023,Bentley,Azure Mulliner,1998,56327,3,Convertible,426,6750,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,100000
+7032,Bentley,R-Type,1955,76239,6,Saloon (4-doors),137,4900,6,0,Left (LHD),Automatic,4,Rear,Drum,Drum,Petrol,39160
+7034,Porsche,911 Carrera,2006,92281,6,Convertible,325,3596,6,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,46079
+7043,BMW,Z8,2000,26889,2,Convertible (Roadster),400,4941,8,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,207985
+7047,Volvo,V 70 XC 2.4T,2000,361745,6,Estate,200,2435,5,5,Left (LHD),Manual,5,4WD,Disc,Disc,Petrol,4743
+7090,Bentley,Continental GT Speed,2013,62405,3,Coupe,625,5998,12,2,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,95290
+7093,Ferrari,456 GT,1994,110674,6,Coupe,442,5474,12,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,60873
+7094,Volkswagen,T1 minibus,1966,47686,1,Bus,75,1776,4,3,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,72621
+7096,Ferrari,328 GTS,1987,57390,6,Convertible (Targa),255,3185,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,103992
+7098,Ferrari,575M Maranello,2002,46203,6,Coupe,515,5748,12,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,295443
+7099,Ferrari,348 TS,1989,79230,1,Coupe (Targa),300,3405,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,63092
+7119,Aston Martin,V12 Vantage S,2017,24913,2,Coupe,573,5935,12,2,Right (RHD),Manual,7,Rear,Disc,Disc,Petrol,136950
+7120,BMW,Z8,2002,73971,3,Convertible (Roadster),400,4941,8,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,213206
+7126,Mercedes-Benz,300 S,1954,83709,1,Coupe,150,2996,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,291527
+7151,Lamborghini,Countach LP 5000 S QV,1988,57902,6,Coupe,455,5167,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,648321
+7152,Lamborghini,Diablo VT Roadster,1996,35439,6,Convertible (Roadster),492,5707,12,2,Left (LHD),Manual,5,4WD,Disc,Disc,Petrol,382466
+7163,Bentley,Mulsanne,2012,104129,2,Saloon (4-doors),512,6752,8,4,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,103557
+7165,Jaguar,XK 140 OTS,1956,14520,3,Convertible (Roadster),193,3442,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,145764
+7176,Land Rover,Defender 130 Double Cab,1993,90000,3,4x4 (Pick-up),122,2402,4,4,Left (LHD),Manual,6,4WD,Disc,Disc,Diesel,77450
+7178,Mercedes-Benz,500 SLC,1981,142000,3,Coupe,240,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,41771
+7181,Volkswagen,T1 panel van,1967,69764,6,Bus (Panel Van),1,1,4,0,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,45687
+7183,Mercedes-Benz,560 SL,1987,107245,6,Convertible (Roadster),242,5600,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,26063
+7189,Mercedes-Benz,560 SL,1988,203529,6,Convertible (Roadster),230,5549,8,1,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,17361
+7205,Mercedes-Benz,190 SL,1956,30605,6,Convertible (Roadster),105,1900,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,104384
+7257,Volkswagen,T1 Samba,1965,62000,2,Bus,51,1493,4,5,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,86588
+7258,Citroën,2 CV 6 Club,1981,67000,2,Saloon (4-doors),29,602,2,4,Left (LHD),Manual,4,Front,Drum,Drum,Petrol,13053
+7260,Ferrari,Testarossa,1987,54497,6,Coupe,390,4943,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,125748
+7261,Bentley,Continental GTC V8,2014,70300,2,Convertible,507,3993,8,2,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,103992
+7262,Bentley,Continental GT Supersports,2010,73480,5,Coupe,630,5998,12,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,69575
+7312,Morgan,Plus 4 4-seater,1994,73971,6,Convertible (Roadster),100,1994,4,2,Right (RHD),Manual,5,Rear,Disc,Drum,Petrol,25895
+7341,Porsche,911 Carrera 4S,2008,79000,1,Convertible,355,3824,6,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,60046
+7361,Mazda,MX-5 2.0,2017,96081,6,Convertible (Roadster),160,1998,4,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,20446
+7380,Mercedes-Benz,240 GD Wolf,1989,73971,3,4x4 (Military vehicle),72,2400,4,3,Left (LHD),Manual,4,4WD,Disc,Drum,Diesel,19928
+7396,Bentley,Arnage R,2004,85000,6,Saloon (4-doors),405,6761,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,38247
+7399,Jaguar,F-Type R,2014,30000,2,Coupe,550,5000,8,2,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,62221
+7400,Porsche,718 Cayman GT4 RS,2022,85,1,Coupe,500,3996,6,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,191451
+7401,Porsche,911 Targa 4S,2017,71105,3,Convertible (Targa),420,2981,6,2,Left (LHD),Automatic,7,4WD,Disc,Disc,Petrol,113122
+7406,Porsche,911 Turbo (WLS),2004,88270,1,Convertible,450,3598,6,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,81724
+7414,Mercedes-Benz,380 SL,1983,191512,1,Convertible (Roadster),204,3839,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,23409
+7422,Ferrari,348 TS,1992,20600,2,Coupe (Targa),300,3405,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,97379
+7429,Aston Martin,DBS,2008,30331,2,Coupe,517,5935,12,2,Right (RHD),Manual,6,Rear,Disc,Disc,Petrol,124950
+7438,Volkswagen,Beetle 1303,1975,83500,2,Convertible,37,1192,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,23409
+7447,Ferrari,328 GTS,1987,101492,6,Convertible (Targa),270,3185,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,77886
+7450,Mercedes-Benz,220 SE,1960,36798,6,Coupe,120,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,71794
+7453,Jaguar,Mk II 3.8,1961,51483,1,Saloon (4-doors),224,3781,6,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,24236
+7454,Triumph,TR 6,1971,102916,3,Convertible (Roadster),165,2498,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,27847
+7507,Jaguar,XK,2014,59788,1,Convertible,385,5000,8,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,60873
+7510,Plymouth,Prowler,1999,32644,6,Convertible (Roadster),255,3518,6,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,46992
+7557,Jaguar,XKR Silverstone,2000,90300,3,Coupe,363,3996,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,39073
+7570,Mercedes-Benz,220 SE b,1965,36000,1,Saloon (4-doors),120,2195,6,4,Left (LHD),Automatic,4,Rear,Disc,Drum,Petrol,25663
+7607,Ferrari,Testarossa,1989,28607,1,Coupe,390,4943,12,2,Right (RHD),Manual,5,Rear,Disc,Disc,Petrol,152290
+7634,Land Rover,90,1989,12262,2,4x4 (Open),215,3532,8,3,Left (LHD),Manual,5,4WD,Disc,Drum,Petrol,121832
+7662,Austin-Healey,Sprite Mk I,1959,73971,3,Convertible (Roadster),44,948,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,13837
+7664,Mercedes-Benz,170 S Cabriolet A,1950,34639,4,Convertible,52,1767,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,152290
+7701,Volkswagen,Golf V 3.2 R32,2006,90123,1,Saloon (3-doors),250,3189,6,3,Right (RHD),Manual,6,4WD,Disc,Disc,Petrol,16995
+7712,Jaguar,XK8 4.0,2001,149,3,Convertible,284,3,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,16421
+7722,Mercedes-Benz,220 S Cabriolet,1959,7800,4,Convertible,106,2195,6,2,Left (LHD),Automatic,4,Rear,Drum,Drum,Petrol,74161
+7725,Chevrolet,Corvette Stingray,2022,5184,1,Convertible (Roadster),482,6162,8,2,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,103977
+7731,Mercedes-Benz,190 SL,1960,73971,1,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,102687
+7734,Mercedes-Benz,190 Dc,1963,60900,3,Saloon (4-doors),55,1988,4,4,Left (LHD),Automatic,4,Rear,Drum,Drum,Diesel,34374
+7743,BMW,1600 - 2,1971,74315,6,Convertible (2-doors),85,1563,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,59611
+7744,Rolls-Royce,Silver Seraph,1998,115269,6,Saloon (4-doors),326,5400,12,0,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,51779
+7771,Mercedes-Benz,CL 55 AMG,2003,98315,2,Coupe,500,5439,8,2,Left (LHD),Semi-Automatic,5,Rear,Disc,Disc,Petrol,33504
+7778,Alfa Romeo,6C 2500 Freccia d`Oro Sport,1947,47927,6,Coupe,90,2443,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,256718
+7780,Mercedes-Benz,SL 500,2002,73840,6,Convertible (Roadster),306,4966,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,30415
+7781,BMW,635 CSi,1979,81669,1,Coupe,218,3453,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,43468
+7789,Porsche,924 Turbo,1981,102000,3,Coupe,177,1984,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,18209
+7809,Maserati,GranTurismo Sport,2013,62000,3,Coupe,460,4691,8,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,62221
+7819,Mercedes-Benz,560 SL,1987,107600,2,Convertible (Roadster),230,5547,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,19406
+7825,Porsche,924,1977,132355,3,Coupe,125,1984,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,9573
+7828,Innocenti,Mini Cooper 1300,1975,79976,2,Saloon (2-doors),105,1275,4,2,Left (LHD),Manual,4,Front,Disc,Drum,Petrol,42206
+7831,Mercedes-Benz,220 SE Cabriolet,1958,65129,1,Convertible,115,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,126183
+7832,Volkswagen,T1 Brasil,1975,23382,1,Bus,44,1483,4,6,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,47863
+7833,Porsche,911 2.2 T,1970,219000,2,Coupe,125,2195,6,2,Left (LHD),Semi-Automatic,4,Rear,Disc,Disc,Petrol,102252
+7835,Land Rover,Range Rover P530,2023,161,1,4x4,530,4395,8,5,Right (RHD),Automatic,8,4WD,Disc,Disc,Petrol,240000
+7837,Rolls-Royce,Wraith,2016,54235,2,Coupe,632,6592,12,2,Right (RHD),Automatic,8,Rear,Disc,Disc,Petrol,170000
+7842,Lamborghini,Gallardo LP 560-4 Spyder,2012,12500,1,Convertible (Roadster),560,5204,10,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,127837
+7843,Wiesmann,Roadster MF5,2012,9900,1,Convertible (Roadster),661,4935,8,2,Left (LHD),Manual,7,Rear,Disc,Disc,Petrol,251496
+7858,Mercedes-Benz,500 SL,1983,82469,6,Convertible (Roadster),231,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,36985
+7864,Citroën,2 CV 6 Club,1986,124,6,Saloon (4-doors),33,602,2,4,Left (LHD),Manual,4,Front,Drum,Drum,Petrol,36985
+7871,Porsche,356 C 1600,1964,3442,6,Coupe,75,1600,4,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,86588
+7890,Mercedes-Benz,190 SL,1957,12400,2,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,112695
+7897,Porsche,911 2.2 S,1970,1200,5,Convertible (Targa),180,2195,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,248016
+7903,Porsche,911 Turbo 3.0,1976,80756,6,Coupe,260,2994,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,130491
+7904,Porsche,"911 2.4 T ""Oilflap""",1972,36434,6,Coupe,140,2341,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,117046
+7918,Alfa Romeo,Giulietta Sprint,1961,27738,3,Coupe,112,1570,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,53954
+7964,Ferrari,550 Maranello,1998,74133,6,Coupe,485,5473,12,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,110954
+7966,Austin-Healey,100/4M (BN2),1954,24062,5,Convertible,110,2660,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,95290
+7982,BMW,Z4 Coupé 3.0si,2006,25265,2,Coupe,265,2996,6,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,29007
+7984,Mercedes-Benz,230 G (SWB),1981,74253,2,4x4,90,2307,4,3,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,43042
+7997,Volkswagen,T1 Samba,1966,4600,2,Bus,44,1493,4,5,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,59089
+7999,Volkswagen,Golf IV 2.8 V6 4Motion,2000,33000,2,Saloon,204,2792,6,5,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,14707
+8043,Lotus,Elise Sport 220,2020,2,1,Convertible (Roadster),220,1798,4,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,58044
+8060,Porsche,911 SC 3.0,1981,121500,2,Coupe,204,2994,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,64832
+8065,Ferrari,Testarossa,1986,27198,1,Coupe,390,4943,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,139995
+8082,Jaguar,Sovereign H.E. V12,1985,97000,2,Saloon (4-doors),295,5343,12,4,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,17231
+8142,MG,MGB,1977,62033,1,Convertible (Roadster),63,1798,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,28282
+8145,Porsche,911 SC 3.0,1980,176978,6,Convertible (Targa),204,2994,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,54389
+8146,Ferrari,308 GTBi,1980,109748,6,Coupe,205,2926,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,67443
+8172,Cadillac,Fleetwood Eldorado Convertible,1971,155883,6,Convertible,370,8200,8,2,Left (LHD),Automatic,3,Front,Disc,Drum,Petrol,33895
+8197,Aston Martin,DB 7 GTA,2004,52500,1,Coupe,420,5935,12,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,93550
+8282,Volkswagen,Beetle 1303,1972,73971,1,Convertible,44,1285,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,26020
+8303,Land Rover,Defender 110 Td5,2007,150000,1,4x4,122,2498,5,2,Left (LHD),Manual,5,4WD,Disc,Disc,Diesel,23931
+8314,Mercedes-Benz,220 SE b,1965,73971,6,Coupe,120,2195,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,76145
+8339,Mercedes-Benz,190 SL,1960,18898,3,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,91287
+8350,MG,RV8,1995,68000,2,Convertible (Roadster),192,3946,8,2,Left (LHD),Manual,5,Rear,Disc,Drum,Petrol,37855
+8360,Ferrari,328 GTS,1989,5900,2,Convertible (Targa),270,3185,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,152290
+8362,FIAT,500 L,1969,49030,2,Saloon (2-doors),18,594,2,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,11309
+8368,Triumph,TR 6,1973,139376,1,Convertible (Roadster),165,2498,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,21321
+8369,MG,F Trophy 160,2010,6731,2,Convertible,160,1796,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,19972
+8370,BMW,Z8,2001,996,6,Convertible (Roadster),400,4941,8,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,304145
+8372,Jaguar,Mk II 3.8,1960,20693,5,Saloon (4-doors),224,3781,6,4,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,40857
+8404,Ferrari,308 GTBi,1981,40468,3,Coupe,205,2926,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,78321
+8420,Porsche,"911 SC 3.0 ""50 Jahre Porsche""",1981,156000,2,Coupe,204,2994,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,69531
+8432,Mercedes-Benz,220 SE Cabriolet,1960,23000,3,Convertible,115,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,95725
+8441,Porsche,356 C 1600 SC,1963,49619,6,Coupe,95,1582,4,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,110954
+8469,Austin-Healey,100/4 (BN1),1955,68623,6,Convertible,90,2660,4,2,Left (LHD),Manual,3,Rear,Drum,Drum,Petrol,82672
+8487,Ferrari,308 GTB,1977,28600,6,Coupe,255,2926,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,121789
+8489,Ferrari,330 GT 2+2,1965,63500,6,Coupe,300,3967,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,304145
+8494,Pontiac,Star Chief Convertible,1955,19998,6,Convertible,177,4700,8,2,Left (LHD),Automatic,3,Rear,Drum,Drum,Petrol,47819
+8496,Pontiac,Star Chief Convertible,1956,4445,6,Convertible,227,5200,8,2,Left (LHD),Automatic,3,Rear,Drum,Drum,Petrol,60873
+8497,Pierce-Arrow,Model 80,1925,110568,6,Saloon (2-doors),70,4700,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,28674
+8501,Mercedes-Benz,560 SL,1987,186211,6,Convertible (Roadster),242,5600,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,26063
+8509,Cockshutt,30,1951,160933,6,Utility Vehicle (Tractor),28,2500,4,0,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,13010
+8529,Ferrari,575M Maranello,2003,83131,6,Coupe,515,5748,12,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,221909
+8530,Rolls-Royce,Phantom VII DHC,2009,19040,6,Convertible,460,6749,12,2,Left (LHD),Automatic,8,Rear,Disc,Disc,Petrol,239139
+8532,Lamborghini,Diablo,1991,23397,4,Coupe,492,5707,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,254542
+8549,Artega,GT,2009,8998,2,Coupe,300,3597,6,2,Left (LHD),Semi-Automatic,6,Rear,Disc,Disc,Petrol,78234
+8550,BMW,M4 CS,2017,16,1,Coupe,460,2979,6,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,86936
+8558,Mercedes-Benz,190 SL,1962,50823,1,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,130447
+8566,Porsche,911 Speedster 3.2,1989,112000,2,Convertible (Roadster),217,3164,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,147069
+8589,Mercedes-Benz,220 S Cabriolet,1957,22389,2,Convertible,100,2195,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,113043
+8634,Triumph,TR 6 PI,1972,15949,1,Convertible (Roadster),165,2498,6,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,43468
+8663,Lombardi,Grand Prix 850,1970,36000,4,Coupe,47,843,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,32982
+8718,Jaguar,Mk II 3.8,1963,76,4,Saloon (4-doors),224,3,6,4,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,46035
+8738,Porsche,911 Carrera RS,1992,98698,6,Coupe,260,3600,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,184924
+8740,Jaguar,XKR,2000,167802,6,Coupe,363,4000,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,16969
+8778,Jaguar,XK 140 SE DHC,1956,24000,2,Convertible,180,3442,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,100076
+8808,BMW,Z8,2000,72486,3,Convertible (Roadster),400,4941,8,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,187012
+8861,Mercedes-Benz,SL 350,2008,132000,3,Convertible (Roadster),245,3498,6,2,Left (LHD),Automatic,7,Rear,Disc,Disc,Petrol,23409
+8865,Mercedes-Benz,220 S,1958,4656,3,Saloon (4-doors),106,2195,6,4,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,34766
+8867,Ferrari,365 GT4 2+2,1973,51199,1,Coupe,340,4390,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,95725
+8898,Bentley,Arnage R,2004,121899,6,Saloon (4-doors),456,6750,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,24366
+8906,Volkswagen,T1 camper,1965,109000,6,Bus (Camper),42,1493,4,3,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,43512
+8921,Jaguar,XJS 6.0,1995,67000,4,Convertible,302,5994,12,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,37855
+8927,Porsche,911 Turbo 3.3,1983,219449,3,Coupe,265,2993,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,147896
+8991,Ferrari,328 GTS,1986,76523,6,Convertible (Targa),264,3185,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,107473
+9001,Lamborghini,Aventador S,2020,10200,2,Convertible (Roadster),740,6498,12,2,Left (LHD),Semi-Automatic,7,4WD,Disc,Disc,Petrol,399436
+9014,Mercedes-Benz,500 SEC,1982,188000,1,Coupe,231,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,26020
+9022,Lagonda,"4,5 Liter LG 45 Le Mans",1936,7744,3,Convertible (Roadster),170,4453,6,0,Right (RHD),Manual,4,Rear,Drum,Drum,Petrol,251932
+9126,Ferrari,348 TS,1991,50926,3,Coupe (Targa),300,3405,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,73970
+9132,Mercedes-Benz,SL 500,2002,44630,1,Convertible (Roadster),306,4966,8,2,Left (LHD),Automatic,5,Rear,Disc,Disc,Petrol,26063
+9143,Mercedes-Benz,190 SL,1957,56400,2,Convertible (Roadster),105,1897,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,108779
+9162,Jaguar,Sovereign H.E. V12,1985,71100,2,Saloon (4-doors),295,5343,12,4,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,8267
+9167,Mercedes-Benz,"SLS AMG GT ""Final Edition""",2014,6759,3,Coupe,591,6208,8,2,Right (RHD),Automatic,7,Rear,Disc,Disc,Petrol,430000
+9204,Aston Martin,Vanquish Zagato Volante,2018,356,1,Convertible (Roadster),600,5935,12,2,Right (RHD),Automatic,8,Rear,Disc,Disc,Petrol,435000
+9208,BMW,328,1938,4884,6,Convertible (Roadster),101,1971,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,199718
+9215,Saab,900 Turbo S,1992,293500,6,Convertible,141,1985,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,8659
+9241,Buick,40 Special Convertible,1955,21773,6,Convertible,188,4300,8,2,Left (LHD),Automatic,3,Rear,Drum,Drum,Petrol,69575
+9251,MG,MGB,1974,122764,6,Convertible (Roadster),101,1800,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,12966
+9255,Mercedes-Benz,500 E,1992,272900,1,Saloon (4-doors),326,4973,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,36115
+9292,Porsche,911 2.4 T,1973,82453,3,Coupe,140,2341,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,86946
+9333,Rolls-Royce,Silver Seraph,2001,37015,1,Saloon (4-doors),326,5379,12,4,Right (RHD),Automatic,5,Rear,Disc,Disc,Petrol,55000
+9356,Porsche,911 Turbo 3.3,1977,63178,6,Coupe,300,3299,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,130099
+9408,Porsche,356 B 1600,1962,10046,2,Coupe,60,1582,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,34500
+9409,Mercedes-Benz,"280 SE 3,5",1970,111000,2,Coupe,200,3499,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,130360
+9423,Rolls-Royce,Corniche I,1977,31785,4,Convertible,211,6750,8,2,Right (RHD),Automatic,3,Rear,Disc,Disc,Petrol,150000
+9437,Bentley,Continental T,1997,18370,2,Coupe,405,6750,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,117481
+9475,BMW,Z8,2001,67204,2,Convertible (Roadster),400,4941,8,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,184393
+9479,Land Rover,Defender 110,2013,36000,2,4x4,122,2198,4,5,Left (LHD),Manual,6,4WD,Disc,Disc,Diesel,51344
+9504,BMW,M3 CSL,2004,64790,3,Coupe,360,3246,6,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,134886
+9526,Bentley,Mulsanne Speed,2016,21871,5,Saloon (4-doors),537,6752,8,4,Right (RHD),Automatic,8,Rear,Disc,Disc,Petrol,100000
+9537,Volkswagen,T1 Westfalia,1958,20178,6,Bus (Camper),30,1191,4,3,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,64832
+9539,Ferrari,308 GTB,1976,96861,6,Coupe,255,2926,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,173611
+9541,Porsche,911 SC 3.0,1983,238435,6,Coupe,204,2994,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,49560
+9573,Bentley,Continental GT V8,2013,71787,4,Coupe,507,3993,8,2,Left (LHD),Automatic,8,4WD,Disc,Disc,Petrol,78147
+9574,Austin-Healey,100/4 (BN1),1955,73971,1,Convertible,90,2660,4,2,Left (LHD),Manual,3,Rear,Drum,Drum,Petrol,102687
+9582,BMW,Isetta hunting car,1955,1843,6,Small car (Small Car),12,295,1,0,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,32634
+9659,Lotus,Esprit V8 BiTurbo,1997,54666,6,Coupe,354,3506,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,56565
+9667,Porsche,924,1982,74000,2,Coupe,125,1984,4,2,Left (LHD),Manual,5,Rear,Disc,Drum,Petrol,12618
+9680,Jaguar,XKR,2008,124367,1,Coupe,416,4196,8,2,Left (LHD),Automatic,6,Rear,Disc,Disc,Petrol,43337
+9685,Land Rover,88,1961,73971,3,4x4 (Open),78,2286,4,2,Left (LHD),Manual,4,4WD,Drum,Drum,Petrol,58741
+9746,Ferrari,Testarossa,1986,8333,1,Coupe,390,4943,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,169695
+9809,Mercedes-Benz,220 S b,1963,146000,4,Saloon (4-doors),110,2195,6,4,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,23931
+9818,Lamborghini,Murciélago,2003,48174,6,Coupe,580,6192,12,2,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,234527
+9855,Lancia,Aprilia Pininfarina Cabriolet,1947,138,6,Convertible,48,1486,4,0,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,239313
+9871,Volkswagen,Golf V 3.2 R32,2007,109980,2,Saloon (3-doors),250,3189,6,4,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,34809
+9882,Mercedes-Benz,"450 SEL 6,9",1975,101719,1,Saloon (4-doors),286,6834,8,4,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,67443
+9885,Alfa Romeo,Montreal,1975,93000,3,Coupe,195,2593,8,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,67617
+9886,Mercedes-Benz,"280 SE 3,5",1969,5350,3,Coupe,200,3499,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,104428
+9918,Rolls-Royce,Dawn Black Badge,2018,27842,3,Convertible,601,6592,12,2,Right (RHD),Automatic,8,Rear,Disc,Disc,Petrol,230000
+9925,Jaguar,XK8 4.0,1997,160725,3,Convertible,284,3996,8,2,Right (RHD),Automatic,5,Rear,Disc,Disc,Petrol,17144
+9929,Porsche,911 2.7 S,1975,21560,3,Convertible (Targa),175,2687,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,49500
+9976,Aston Martin,DB 7 GTA,2003,66777,6,Coupe,420,5935,12,2,Right (RHD),Automatic,5,Rear,Disc,Disc,Petrol,28000
+9998,Ferrari,550 Maranello,1999,76900,6,Coupe,485,5473,12,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,115305
+10006,Rolls-Royce,Phantom Coupé,2008,40652,5,Coupe,460,6749,12,2,Right (RHD),Automatic,8,Rear,Disc,Disc,Petrol,170000
+10007,Rolls-Royce,Cullinan Black Badge,2021,8369,1,4x4,600,6592,12,5,Right (RHD),Automatic,8,4WD,Disc,Disc,Petrol,390000
+10010,Mercedes-Benz,420 SL,1989,103803,6,Convertible (Roadster),218,4196,8,2,Right (RHD),Automatic,4,Rear,Disc,Disc,Petrol,80000
+10011,Lamborghini,Gallardo,2006,76764,2,Coupe,520,4961,10,2,Left (LHD),Automatic,6,4WD,Disc,Disc,Petrol,81367
+10017,Mercedes-Benz,450 SL,1974,120500,3,Convertible (Roadster),182,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,33852
+10020,Mercedes-Benz,220,1951,11900,3,Saloon (4-doors),80,2195,6,4,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,60829
+10024,Mercedes-Benz,380 SL,1981,154000,3,Convertible (Roadster),218,3818,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,28718
+10025,Mercedes-Benz,450 SL,1976,75000,3,Convertible (Roadster),182,4520,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,25237
+10289,Mercedes-Benz,230 G (SWB),1981,32194,5,4x4,155,2307,4,3,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,77886
+10304,Mercedes-Benz,380 SL,1982,41395,6,Convertible (Roadster),158,3793,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,45687
+10329,Austin-Healey,Sprite Mk I,1960,21504,6,Convertible (Roadster),44,948,4,2,Right (RHD),Manual,4,Rear,Disc,Drum,Petrol,16995
+10368,Mercedes-Benz,560 SL,1987,37350,3,Convertible (Roadster),242,5547,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,76145
+10375,Mercedes-Benz,380 SL,1982,136416,3,Convertible (Roadster),218,3818,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,18275
+10430,Porsche,"911 2.4 T ""Oilflap""",1972,49320,3,Coupe,130,2341,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,94855
+10432,Aston Martin,V12 Vanquish,2003,46510,5,Coupe,460,5935,12,2,Right (RHD),Semi-Automatic,6,Rear,Disc,Disc,Petrol,55000
+10437,Austin-Healey,3000 Mk I (BT7),1960,536,3,Convertible (Roadster),250,2912,6,2,Right (RHD),Manual,4,Rear,Disc,Drum,Petrol,165000
+10441,Jaguar,XK 150 3.8 S OTS,1959,46482,6,Convertible (Roadster),269,3781,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,338955
+10442,Alfa Romeo,SZ,1990,48260,1,Coupe,210,2959,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,69183
+10447,Porsche,911 Turbo 3.3,1984,32000,2,Coupe,300,3299,6,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,91492
+10456,Mercedes-Benz,380 SL,1985,174169,6,Convertible (Roadster),204,3839,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,28674
+10492,BMW,M3,1991,73971,3,Convertible,215,2302,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,91374
+10498,Porsche,911 2.2 S,1970,85750,3,Convertible (Targa),180,2195,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,130457
+10506,Mercedes-Benz,300 SEL 6.3,1971,10696,6,Saloon (4-doors),250,6299,8,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,47428
+10508,Bentley,Continental Supersports,2011,38302,6,Convertible,630,5998,12,2,Right (RHD),Automatic,6,4WD,Disc,Disc,Petrol,65000
+10521,Mercedes-Benz,"280 SE 3,5",1970,100842,6,Coupe,200,3499,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,68313
+10522,Volkswagen,Beetle 1302,1971,380,6,Convertible,34,1192,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,33504
+10553,ISO,Rivolta A3/C,1963,300,1,Coupe,411,5354,8,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,1122597
+10598,Mercedes-Benz,560 SL,1986,49000,2,Convertible (Roadster),230,5547,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,52040
+10608,Citroën,HY,1977,92578,6,Utility Vehicle,52,1600,4,2,Left (LHD),Manual,3,Front,Drum,Drum,Petrol,29588
+10609,AC,Ace,1959,120764,6,Convertible (Roadster),103,1991,8,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,225390
+10632,Bentley,Continental GTC,2010,42809,5,Convertible,740,5998,12,2,Right (RHD),Automatic,6,4WD,Disc,Disc,Petrol,60000
+10672,Jaguar,XJ-S V12,1986,96047,2,Coupe,295,5345,12,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,23888
+10682,Ferrari,250 GT/E,1964,16839,4,Coupe,240,2953,12,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,343741
+10701,Mercedes-Benz,250 SE,1967,62716,6,Coupe,150,2496,6,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,63092
+10703,Porsche,911 Turbo (WLS),2002,6900,1,Coupe,450,3598,6,2,Left (LHD),Manual,6,4WD,Disc,Disc,Petrol,113043
+10704,Rolls-Royce,Silver Seraph,1999,73971,2,Saloon (4-doors),326,5379,12,4,Right (RHD),Automatic,5,Rear,Disc,Disc,Petrol,50000
+10705,Bentley,Azure Mulliner,2003,24784,5,Convertible,426,6750,8,2,Right (RHD),Automatic,4,Rear,Disc,Disc,Petrol,130000
+10729,Mercedes-Benz,"280 SE 3,5",1971,111378,6,Coupe,200,3499,8,2,Left (LHD),Manual,4,Rear,Disc,Disc,Petrol,86153
+10730,Aston Martin,Vanquish Zagato,2017,3104,1,Coupe,580,5935,12,2,Right (RHD),Automatic,8,Rear,Disc,Disc,Petrol,395000
+10760,Victoria,Spatz,1956,54349,6,Small car (Roadster),10,200,1,0,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,24802
+10761,Mercedes-Benz,300 Cabriolet D,1953,51705,6,Convertible,115,2996,6,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,163168
+10762,Mercedes-Benz,300 Cabriolet D,1952,26477,4,Convertible,115,2996,6,4,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,199283
+10772,Mazda,MX-5 1.5,2015,1637,1,Convertible (Roadster),131,1496,4,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,23931
+10774,Alfa Romeo,2000 Spider Veloce,1982,171043,2,Convertible,127,1962,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,23279
+10776,Porsche,356 1300,1955,73971,1,Coupe,44,1290,4,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,242794
+10780,Mercedes-Benz,250,1978,67900,4,Saloon (4-doors),129,2,6,4,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,24279
+10799,Glas,Goggomobil Dart 400,1960,19894,6,Convertible (Roadster),20,392,2,0,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,27412
+10815,Rolls-Royce,Corniche I,1972,131755,3,Convertible,211,6750,8,2,Left (LHD),Automatic,3,Rear,Disc,Disc,Petrol,63092
+10822,Glas,Goggomobil TS 250,1969,85769,6,Coupe,14,245,2,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,24802
+10825,Piaggio,Vespa 400,1961,52068,6,Small car (Convertible),14,400,2,2,Left (LHD),Manual,4,Rear,Drum,Drum,Petrol,17187
+10834,Bentley,Flying Spur W12,2013,16576,3,Saloon (4-doors),625,5998,12,4,Right (RHD),Automatic,8,4WD,Disc,Disc,Petrol,59995
+10835,Bentley,Continental GT Supersports,2010,62764,6,Coupe,630,5998,12,2,Right (RHD),Automatic,6,4WD,Disc,Disc,Petrol,46500
+10844,Audi,TT 1.8 T,2008,176710,1,Convertible (Roadster),163,1798,4,2,Left (LHD),Manual,5,Front,Disc,Disc,Petrol,12966
+10851,Alfa Romeo,2000 Spider Veloce,1982,83013,6,Convertible,127,1962,4,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,27630
+10888,Aston Martin,V12 Vanquish S,2005,29158,3,Coupe,528,5935,12,2,Right (RHD),Manual,6,Rear,Disc,Disc,Petrol,115000
+10908,Aston Martin,Project Vantage,2000,11,1,Coupe,485,5935,12,2,Left (LHD),Manual,6,Rear,Disc,Disc,Petrol,450000
+10951,Triumph,TR 3A,1959,115902,3,Convertible (Roadster),100,2000,4,2,Left (LHD),Manual,4,Rear,Disc,Drum,Petrol,29501
+10968,Mercedes-Benz,500 SL,1983,119895,6,Convertible (Roadster),231,4973,8,2,Left (LHD),Automatic,4,Rear,Disc,Disc,Petrol,27804
+10998,Porsche,911 2.4 T,1971,73971,2,Coupe,130,2341,6,2,Left (LHD),Manual,5,Rear,Disc,Disc,Petrol,86936
+11081,Land Rover,Range Rover Autobiography SDV8,2013,73971,2,4x4,339,4367,8,5,Right (RHD),Automatic,8,4WD,Disc,Disc,Diesel,35995
