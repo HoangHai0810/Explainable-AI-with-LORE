@@ -9,6 +9,7 @@ As machine learning models become increasingly complex, understanding their deci
 - Provide local explanations for predictions of black-box models by extracting simple, interpretable rules.
 - Generate neighborhood instances around a given sample to build a rule-based explanation model.
 - Offer visualization tools to help users understand the reasons behind model decisions.
+![lore_cover](https://github.com/user-attachments/assets/e65120c0-84f4-41e0-806c-7cca0c378103)
 
 ## Requirements
 
